@@ -1,0 +1,10 @@
+# 将本文件复制一份命名为“database.secret.yml”，并补充 MySQL 数据密码
+# 需要实现创建好数据库 agri_analysis
+
+development:
+  database:
+    username: root
+    password:
+    host: localhost
+    port: 3306
+    database: agri_analysis
